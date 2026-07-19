@@ -94,8 +94,8 @@ def build_stats(problems):
 
     return (
         f"**Total solved:** {total}  \n"
-        f"🟢 Easy: {counts['Easy']}  |  "
-        f"🟡 Medium: {counts['Medium']}  |  "
+        f"🟢 Easy: {counts['Easy']}  \n  "
+        f"🟡 Medium: {counts['Medium']}  \n  "
         f"🔴 Hard: {counts['Hard']}\n"
     )
 
