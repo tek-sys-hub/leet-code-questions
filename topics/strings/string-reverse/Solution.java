@@ -9,6 +9,9 @@ public class Solution {
     }
     public static void reverseString(char[] s) {
 
+
+        // Created The temp array to store the actual array then swap
+
         char[] temp = new char[s.length];
         int n = s.length - 1;
         for (int i = 0; i < s.length; i++) {
