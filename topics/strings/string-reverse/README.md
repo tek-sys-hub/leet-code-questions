@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 1. String Reverse
 [LeetCode Link](https://leetcode.com/problems/reverse-string/description/)
 
 **Difficulty:** Easy

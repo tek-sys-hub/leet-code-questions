@@ -13,7 +13,7 @@ A collection of my LeetCode problem solutions, organized by topic/pattern.
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
 | 1 | Two Sum | 🟢 Easy | Array | [Solution](topics/array/two-sum) |
-| 1 | Two Sum | 🟢 Easy | Strings | [Solution](topics/strings/string-reverse) |
+| 1 | String Reverse | 🟢 Easy | Strings | [Solution](topics/strings/string-reverse) |
 | 189 | Rotate Array | 🟡 Medium | Array | [Solution](topics/array/rotatedArray) |
 
 
