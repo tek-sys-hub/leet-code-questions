@@ -2,8 +2,10 @@
 
 A collection of my LeetCode problem solutions, organized by topic/pattern.
 
-**Total solved:** 1  
-🟢 Easy: 1  |  🟡 Medium: 0  |  🔴 Hard: 0
+**Total solved:** 2  
+🟢 Easy: 1  
+  🟡 Medium: 1  
+  🔴 Hard: 0
 
 
 ## Index
@@ -11,6 +13,7 @@ A collection of my LeetCode problem solutions, organized by topic/pattern.
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
 | 1 | Two Sum | 🟢 Easy | Array | [Solution](topics/array/two-sum) |
+| 189 | Rotate Array | 🟡 Medium | Array | [Solution](topics/array/rotatedArray) |
 
 
 ---
