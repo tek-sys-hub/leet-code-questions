@@ -2,8 +2,8 @@
 
 A collection of my LeetCode problem solutions, organized by topic/pattern.
 
-**Total solved:** 3  
-🟢 Easy: 2  
+**Total solved:** 4  
+🟢 Easy: 3  
   🟡 Medium: 1  
   🔴 Hard: 0
 
@@ -12,6 +12,7 @@ A collection of my LeetCode problem solutions, organized by topic/pattern.
 
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
+| 1 | Shift 2D Array` | 🟢 Easy | Array | [Solution](topics/array/shift-2d-grid) |
 | 1 | Two Sum | 🟢 Easy | Array | [Solution](topics/array/two-sum) |
 | 1 | String Reverse | 🟢 Easy | Strings | [Solution](topics/strings/string-reverse) |
 | 189 | Rotate Array | 🟡 Medium | Array | [Solution](topics/array/rotatedArray) |
